@@ -1,0 +1,11 @@
+Acima da meta: #2A627F
+Abaixo da meta: #9AC8E0
+
+Rosca:
+Atacado: #54A0C7
+Redes: #607986
+Varejo: #B9DBEC
+Grande rede: #000000
+
+Preenchimento Botão desabilitado: #B9DBEC
+Preenchimento Botão habilitado: #54A0C7
